@@ -2,7 +2,7 @@
 nom: "Morteflamme"
 origine: "Royaume des morts"
 sexe: "Au choix du joueur"
-Espece: "Seigneur des Cendres"
+espece: "Seigneur des Cendres"
 famille: "Aucune"
 série: "Dark Souls 3"
 ---

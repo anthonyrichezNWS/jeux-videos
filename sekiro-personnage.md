@@ -2,7 +2,7 @@
 nom: "Loup","Sekiro"
 origine: "Japon"
 sexe: "Masculin"
-Espece: "Humain ?"
+espece: "Humain ?"
 famille: "La chouette"
 série: "Sekiro"
 ---
