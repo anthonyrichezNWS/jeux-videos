@@ -1,5 +1,5 @@
 ---
-titre: "Dark Souls","Dāku Souru"
+titre: "Dark Souls, Dāku Souru"
 editeur: ["From Software","Bandai Namco Entertainment"]
 developpeur: "From Software"
 concepteur: "Hidetaka Miyazaki"

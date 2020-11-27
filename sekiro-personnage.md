@@ -1,5 +1,5 @@
 ---
-nom: "Loup","Sekiro"
+nom: "Loup, Sekiro"
 origine: "Japon"
 sexe: "Masculin"
 espece: "Humain ?"

@@ -3,7 +3,7 @@ nom: "Kratos"
 origine: "Sparte"
 sexe: "Masculin"
 espece: "dieu"
-famille: "Atreus (fils)","Calliope(fille, décédée),"Lysandra (1re épouse, décédée), "Laufey (2e épouse, décédée)"
+famille: "Atreus (fils), Calliope(fille, décédée), Lysandra (1re épouse, décédée), Laufey (2e épouse, décédée)"
 série: "God Of War"
 ---
 
